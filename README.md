@@ -2,6 +2,7 @@
 
 Quickstart: 
 - git clone https://github.com/seantdg/i-love-apis-2016-unit-test.git
+- cd {project dir}
 - npm install
 - npm test
 
