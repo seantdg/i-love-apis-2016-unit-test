@@ -1,0 +1,31 @@
+{
+  "name": "apigee-unit-test",
+  "version": "0.0.1",
+  "description": "Apigee Unit Test Demo",
+  "main": "tests.js",
+  "dependencies": {
+    "expect": "^1.14.0",
+    "sinon": "^1.17.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seantdg/i-love-apis-2016-unit-test.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "apigee"
+  ],
+  "author": "Sean Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seantdg/i-love-apis-2016-unit-test/issues"
+  },
+  "homepage": "https://github.com/seantdg/i-love-apis-2016-unit-test"
+}
